@@ -64,6 +64,9 @@ div h2 {
     margin-top: 200%;
     font-size: 3rem;
 }
+.text p {
+    margin-top: 65px;
+}
 .text h1 {
     font-size: 5rem;
     margin-top: 67px;
