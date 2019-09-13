@@ -250,7 +250,7 @@ body {
     .nav{
         display: grid;
         grid-template-columns: repeat(4, 1fr);
-        background: red;
+        /* background: red; */
         width: 100vw;
     }
     .nav-link {
